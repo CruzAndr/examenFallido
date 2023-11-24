@@ -1,0 +1,78 @@
+
+Parte 1. Desarollo téorico. 12 pts
+
+Lista de Preguntas Seleccione 4 de ellas unicamente.
+
+1. [3 pts] ¿Qué es la herencia en Java y cómo se implementa? 
+Proporcione un ejemplo práctico de una clase que hereda de otra, 
+y explica la relación entre la clase padre e hija.
+
+R/ La herncia en Java es un tipo de relacion que se utiliza para conectar a una 
+clase hija con la madre, esta relacion se utiliza para indicar que se extiende 
+atributos y metodos de una super clase a una subclase, implimentandose el codigo 
+mediante la palabra extend. Un ejemplo de esta clase seria la clase Autos que le
+hereda a BMW
+
+
+
+
+2.[3 pts] Explique el concepto de polimorfismo en Java. 
+Proporcione un ejemplo concreto utilizando métodos y explique cómo 
+el polimorfismo facilita el diseño de programas flexibles y extensibles.
+
+R/ El concepto de polimorfismo, es un concepto que permite que varias clases 
+puedan heredar funciones o metodos de distintas clases, permitiendole que en
+tiempo de ejecucion el programa pueda utilizar algun metodo ideo para satisfacer
+las necesidades del usuario, haciendo que el programa sea flexible a la hora
+de ser ejecutado y mediante su ejecucion poder extenderse usando distintos metodos
+de otras clases
+
+
+
+3.[3 pts] ¿Cuál es el propósito de una clase abstracta en Java? 
+Proporciona un ejemplo de una clase abstracta y explica cómo se diferencia
+ de una clase regular.
+
+R/
+
+
+
+
+4.[3 pts] Describa cómo se pueden leer y escribir datos en archivos en Java. 
+Menciona la importancia de manejar excepciones en este contexto.
+
+
+R/ Se pueden leer y escribir estos datos en los archivos mediante el uso de
+ficheros que creen los archivos y permiten con su funcion de writter y FileReader
+lograr obtener o ingresar informacion que sea necesaria, pero se deben manejar 
+excepciones por si se ingresan datos erroneos o incompatibles no llege a reventar
+el codigo 
+
+
+
+5.[3 pts] Explica el concepto de recursividad en Java. 
+Proporciona un ejemplo de una función recursiva y discute cómo funciona,
+ así como las precauciones que deben tomarse al utilizar la recursividad.
+
+
+R/ La recursividad en java es un concepto que hace referencia al uso de funciones
+como metodos para lograr realizar un problema mas pequeño y de forma mas clara y 
+concisa. Este tipo de conceptos trabaja mediante parametros y argumentos que 
+forman
+la funcion y le permiten realizar un ciclo para responder a lo ingresado por el 
+usuario, como las potencias, las cuales en base a su numero se define su caso
+base y se realizan las demas funciones hasta que la misma funcion se llame a si 
+misma
+
+
+
+
+6.[3 pts] ¿Cómo se gestiona dinámicamente la memoria en Java? 
+Explica cómo Java aborda la liberación de memoria.
+
+
+R/ Esta se gestiona mediante la declaracion de distintos metodos, donde se les
+asigna un valor para ser almacenados en la memoria y al momento de ser ejecutados
+poder ser liberados en la computadora en tiempo de ejcucion 
+
+
